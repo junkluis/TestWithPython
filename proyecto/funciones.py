@@ -1,6 +1,7 @@
 
 
 
+
 ''' Funcion quick_sort
     La funcion recibe un arreglo de numeros enteros
     y devuelve el arreglo ordenado de forma ascendente.
@@ -35,3 +36,7 @@ def quick_sort(array):
 
 
 #Usando mi funcion para ordenar arreglos
+listaordenada=quick_sort([1,4,16,10])
+print(listaordenada)
+
+

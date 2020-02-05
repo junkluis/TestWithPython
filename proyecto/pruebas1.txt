@@ -1,0 +1,3 @@
+''' Pruebas para quick_sort
+    @autor: Monica Villavicencio
+'''
